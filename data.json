@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "shiwani",
+      "history": [
+        { "movie": "3 idiotd", "seats": 1 },
+        { "movie": "Crew", "seats": 3 },
+        { "movie": "Crew", "seats": 3 },
+        { "movie": "Crew", "seats": 3 },
+        { "movie": "Jab we met", "seats": 2 },
+        { "movie": "Jab we met", "seats": 2 },
+        { "movie": "Crew", "seats": 1 },
+        { "movie": "Jab we met", "seats": 1 },
+        { "movie": "Crew", "seats": 1 }
+      ]
+    },
+    { "username": "evolve", "history": [] },
+    { "username": "shibu", "history": [] },
+    {
+      "username": "shivu",
+      "history": [{ "movie": "Harry Porter", "seats": 1 }]
+    }
+  ],
+  "movies": [
+    { "name": "Crew", "available_seats": [] },
+    { "name": "Jab we met", "available_seats": ["A4"] },
+    { "name": "3 idiotd", "available_seats": [" 2", " 3"] },
+    { "name": "Harry Porter", "available_seats": ["1", "3"] }
+  ]
+}
